@@ -3,6 +3,8 @@ The interactive code for 1(a)
 
 WORK-WELL VERSION in pygame:
 
+python version:3.6.2
+pygame version:1.9.4
 pygamehelper.py
 startercode.py
 vec2d.py
